@@ -1,0 +1,24 @@
+{
+  "name": "hot_restaurant",
+  "version": "1.0.0",
+  "description": "Mini project. Full stack app that manages reservations of a small restaurant.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmjohnspor/hot_restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmjohnspor/hot_restaurant/issues"
+  },
+  "homepage": "https://github.com/dmjohnspor/hot_restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
